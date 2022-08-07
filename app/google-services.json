@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763253917516",
+    "project_id": "varonikawhatsapp",
+    "storage_bucket": "varonikawhatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763253917516:android:60971c5039cea0112231e9",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763253917516-b4lr9r7qb891rtd2rphqqp6e6v7gfmk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4d8CoqeorlEZEbuvHgK34yw4QcQZWYWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763253917516-b4lr9r7qb891rtd2rphqqp6e6v7gfmk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
